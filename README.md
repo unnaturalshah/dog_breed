@@ -109,4 +109,4 @@ __NOTE:__ While some code has already been implemented to get you started, you w
 ## FAQ
 
 **What if dog_app.ipny is not loading?**
-> Try downloading the file and running Jupyter Notebook.
+> Try downloading the file and running on Jupyter Notebook.
