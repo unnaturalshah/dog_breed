@@ -103,3 +103,10 @@ jupyter notebook dog_app.ipynb
 __NOTE:__ While some code has already been implemented to get you started, you will need to implement additional functionality to successfully answer all of the questions included in the notebook. __Unless requested, do not modify code that has already been included.__
 
 
+
+
+
+## FAQ
+
+**What if dog_app.ipny is not loading?**
+> Try downloading the file and running Jupyter Notebook.
